@@ -1,13 +1,14 @@
 ---
-title: "Statuto della Casa del Popolo"
-summary: ""
+title: "Statuto “CASA DEL POLOLO DI SETTIGNANO ARCI APS”"
+summary: "Lo Statuto della CdP di Settignano"
+linktitle: Statuto
 date: 2019-06-28T00:00:00
 type: book
 weight: 5
+show_date: true
 toc: true
 draft: false
 ---
-# Statuto “CASA DEL POLOLO DI SETTIGNANO ARCI APS” 
 
 ## Definizioni e Finalità 
 

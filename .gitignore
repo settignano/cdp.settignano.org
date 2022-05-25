@@ -1,7 +1,10 @@
-# IDEs
-.idea/
-
-# Hugo
-/resources/
 public/
+resources/
+drafts/
+_local/
+content/.obsidian
 assets/jsconfig.json
+.frontmatter
+frontmatter.json
+.hugo_build.lock
+.vscode

@@ -1,8 +1,3 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
 # Appearance
 
 appearance:
@@ -18,10 +13,10 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: 'Casa del Popolo di Settignano'
-    description: 'dal 1946...'
+    description: 'Dal 1946 promuoviamo territorio, cultura, politica, arte, socialità, musica, cineforum, centri estivi, ludoteca, attività ricreative, formazione.'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-QYC10ZJXYY'
     baidu_tongji: ''
   verification:
     google: ''
@@ -31,29 +26,29 @@ marketing:
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: r
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    show_search: false
+    highlight_active_link: true
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
-      enable: true
-      allow_derivatives: false
+      enable: false
+      allow_derivatives: true
       share_alike: true
       allow_commercial: false
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-
+  date_format: '2 Jan 2006'
+  time_format: '15:04'
+  address_format: fr-fr
 # Site features
 
 features:
@@ -65,9 +60,9 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/settignano/cdp.settignano.org'
     content_dir: content
     branch: main
   avatar:
@@ -88,7 +83,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 

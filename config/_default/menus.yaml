@@ -7,6 +7,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: About
-    url: about/
+  - name: Documenti
+    url: documenti/
     weight: 20
+  - name: Contatti
+    url: #contatti
+    weight: 100
