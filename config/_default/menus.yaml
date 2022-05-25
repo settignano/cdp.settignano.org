@@ -11,5 +11,5 @@ main:
     url: documenti/
     weight: 20
   - name: Contatti
-    url: #contatti
+    url: "#contatti"
     weight: 100
