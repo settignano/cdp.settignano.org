@@ -11,6 +11,7 @@ content:
   filters:
     folders:
       - documenti
+      - post
     tag: ''
     category: ''
     publication_type: ''

@@ -7,9 +7,15 @@ main:
   - name: Home
     url: /
     weight: 10
+  - name: News
+    url: post/
+    weight: 15
+  - name: CdP
+    url: cdp/
+    weight: 20
   - name: Documenti
     url: documenti/
-    weight: 20
+    weight: 50
   - name: Contatti
     url: "#contatti"
     weight: 100

@@ -39,6 +39,10 @@ content:
 #    - 'Wednesday 09:00 to 10:00'
 #  appointment_url: 'https://calendly.com'
   contact_links:
+    - icon: newspaper
+      icon_pack: fas
+      name: Newsletter
+      link: https://www.autistici.org/mailman/listinfo/socicdpsett
     - icon: facebook
       icon_pack: fab
       name: Facebook
