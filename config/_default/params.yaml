@@ -51,7 +51,9 @@ locale:
   address_format: fr-fr
 # Site features
 
-features:
+section_pager: true
+
+features:  
   syntax_highlighter:
     enable: false
     extra_languages:

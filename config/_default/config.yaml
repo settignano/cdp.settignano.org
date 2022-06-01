@@ -65,3 +65,11 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+
+cascade:
+  # Blog post folder options
+  - _target:
+      path: /post/**
+    share: false
+    show_related: true
