@@ -27,9 +27,9 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/cdpsettignano/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/settignano
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/settignano
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
