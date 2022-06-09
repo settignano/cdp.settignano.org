@@ -73,3 +73,6 @@ cascade:
       path: /post/**
     share: false
     show_related: true
+  - _target:
+      path: /**
+    share: false
