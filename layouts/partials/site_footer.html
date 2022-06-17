@@ -16,9 +16,9 @@
     <p class="powered-by">
       Questo è un sito <a href="https://github.com/settignano/cdp.settignano.org">Open Source</a> con licenza <a href="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons</a>
       pubblicato con <a href="https://wowchemy.com/?utm_campaign=poweredby" target=_blank rel=noopener>Wowchemy</a></p>
-       &middot;
+
       {{ with site.GetPage "privacy.md" }}
-        {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+      &middot;{{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
       {{ end }}
   
       {{ with .Site.GetPage "sitemap/index.md" }}

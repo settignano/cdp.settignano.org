@@ -12,52 +12,66 @@ draft: false
 
 Nel nostro edificio di 3 piani ed esterno, sono molti gli spazi a disposizione delle attività
 
-![](albums/cdp/esterno.webp)
+![](spazi/esterno.webp)
 
-## Bar
-![](albums/cdp/bar.webp)
+## Piano terra
 
-## Terrazza
+### Bar
+![](spazi/bar.webp)
 
-## Salone
-![](albums/cdp/mercatino.webp)
+### Terrazza
+![](spazi/terrazza.webp)
 
-## Sala Mondo
-![](albums/cdp/sala_mondo.webp)
+### Salone
+![](spazi/mercatino.webp)
 
-## Cucina
+### Sala Mondo
+![](spazi/sala_mondo.webp)
+![](spazi/sala_mondo_piano.webp)
 
-## Segreteria
+### Cucina
 
-## Teatro
+### Segreteria
 
-## Stanza Associazione
+## Primo piano
 
-## Centro Documentazione
+### Teatro
+![](spazi/teatro.webp)
+![](spazi/teatro_conferenza.webp)
 
-## Scuola di Musica
+### Stanza Associazione
 
-## Camera Oscura
+### Centro Documentazione
 
-## Ludoteca
+### Scuola di Musica
 
-## Sala prove
+### Camera Oscura
 
-## Studio di Registrazione
+## Piano zero
 
-## Biblioteca
+### Ludoteca
 
-## Magazzino
+### Sala prove
 
-## Laboratorio
+### Studio di Registrazione
 
-## Piazzale / Pista
-![](albums/cdp/piazzale.webp)
+### Biblioteca
 
-## Giardino
-![](albums/cdp/calcino.webp)
+### Magazzino
 
-## Cucina esterna
+### Laboratorio
 
-## Bar esterno
+## Esterni
+
+### Piazzale / Pista
+![](spazi/piazzale.webp)
+![](spazi/pista.webp)
+
+### Giardino
+![](spazi/calcino.webp)
+![](spazi/giardino.webp)
+
+### Cucina esterna
+
+### Bar esterno
 
