@@ -11,32 +11,50 @@ draft: false
 ---
 
 ## 2021-2023
-**Presidentessa**: Rosalba Gioffré (1959)
-**Tesoriera**: Mariagrazia Peroni (1953)
-**Segretaria**: Virginia Ferraro (1984)
+**Presidentessa**: Rosalba Gioffré
+**Tesoriera**: Mariagrazia Peroni
+**Segretaria**: Virginia Ferraro
 
-- Alex Corti (1978)
-- Barbara Giovino (1970)
-- Beppe Sarti (1952)
-- Ginevra De Marco (1995)
-- Guido Chiuderi (2000)
-- Ivan Gottlieb (1947)
-- Lorenzo Ugolini (1982)
-- Martina Rusconi (1997)
-- Marzia Archinucci (1962)
-- Serena Draghi Lorenz (1968)
-- Sergio Chiuderi (1970)
-- Stefano Cecere (1973)
+- Alex Corti
+- Barbara Giovino
+- Beppe Sarti
+- Ginevra De Marco
+- Guido Chiuderi
+- Ivan Gottlieb
+- Lorenzo Ugolini
+- Martina Rusconi
+- Marzia Archinucci
+- Serena Draghi Lorenz
+- Sergio Chiuderi
+- Stefano Cecere
 
 ## 2019-2021
-**Presidente**: Ivan Gottlieb (1947)
-**Tesoriera**: Mariagrazia Peroni (1953)
+**Presidente**: Ivan Gottlieb
+**Tesoriera**: Mariagrazia Peroni
 
-- Beppe Sarti (1952)
+- Alessio Simonini
+- Beppe Sarti
+- Camilla Conti
+- Christian Caglieri
 - Gabriele Conti
-- Lorenzo Ugolini (1982)
+- Lorenzo Ugolini
+- Luca Pettinicchio
+- Massimiliano Liverani
 - Moreno Pandolfi
-- Nicola 
-- Rosalba Gioffré (1959)
-- Sergio Chiuderi (1970)
-- 
+- Nicola Vannini
+- Rosalba Gioffré
+- Sergio Chiuderi
+
+## 2017-2019
+- Cristian Caglieri
+- Francesca Nannelli
+- Giuseppe Sarti  
+- Ivan Gottlieb
+- Lorenzo Ugolini  
+- Luca Pettinicchio
+- M. Grazia Peroni 
+- Massimo Liverani  
+- Mauro Antonelli  
+- Moreno Pandolfi 
+- Rosalba Gioffrè
+
