@@ -10,6 +10,8 @@ toc: true
 draft: false
 ---
 
+![](storia/1972_copertina-storia-cdp.webp)
+
 ## SETTIGNANO ALL’INIZIO DEL SECOLO E NEL PERIODO FASCISTA
 II cambiamento di ceto a Settignano, al quale oggi stiamo assistendo, è un processo che è iniziato, con forme e modi diversi, ma non molto dissimili da quelli attuali, fin dai primi del 1900.
 Infatti è proprio in questo periodo che Settignano, centro di villeggiatura, date le proprie caratteristiche paesaggistiche, diventa residenza di campagna per la grossa borghesia cittadina. .
@@ -37,22 +39,22 @@ Settignano rispose a questo stato di cose e al fascismo col "Soccorso Rosso". Qu
 Da questo si può vedere che se i fascisti non dormivano, neanche il paese si era adagiato in questo stato di cose.
 I settignanesi democratici reagivano al fascismo con tutti i mezzi clandestini a loro disposizione lo si vide chiaramente quando, finita la Seconda Guerra Mondiale, si poté uscire allo scoperto.
 
-![](storia/194408_liberazione.webp)
+![](storia/1944_liberazione.webp)
 Agosto 1944. Un momento della Liberazione di Settignano.
 
+![](storia/1944_liberazione_2.webp)
 Agosto 1944. Altri momenti della liberazione di Settignano.
 
+![](storia/1944_partecipazione.webp)
 Agosto 1944. Partecipazione popolare per la Liberazione di Settignano.
 
 Si ebbero le prime assemblee chiamate allora riunioni di popolo, dove gli assenti si contavano sulle dita e dove tuttavia non tutti gli intervenuti parlavano e portavano il loro contributo sia come indirizzo politico che come organizzazione pratica da dare alla Casa del Popolo poiché era quasi insormontabile la difficoltà di ricominciare a parlare dopo vent'anni di silenzio. Le assemblee dell'epoca rivelavano la volontà di molti soci di acquistare dei locali dove fare la sede della Casa del Popolo.
 Sempre in questo periodo si apprendeva che il Governo si sarebbe impossessato dei beni del fascismo e quindi si pensò di acquistare la ex Casa del fascio e si promosse subito un Comitato di Ricostruzione che doveva provvedere a trovare i fondi necessari per l'acquisto (L.300.000 circa).
 Si discusse molto sullo statuto che doveva darsi la Casa del Popolo.e si arrivò quindi alla stesura dello statuto stesso che dette, come suo primo modo di essere, tutto il potere decisionale ali'assemblea dei soci. Proprio per rendere semplice e acquisibile a tutti i so¬ci come doveva essere gestita la Casa del Popolo, in quel periodo, durante le assemblee, si riportava spesso questo tipo di schema:
 
-
-ASSEMBLEA DEI SOCI
-/\ Consiglio, Direttivo /|\
-Attività della Casa del popolo sia a livello culturale che amministrativo.
-
+1. ASSEMBLEA DEI SOCI
+2. Consiglio, Direttivo
+3. Attività della Casa del popolo sia a livello culturale che amministrativo.
 
 Il Consiglio, viene eletto tramite elezioni dirette.
 
@@ -72,6 +74,9 @@ Viva parte ebbero la Casa del Popolo con i suoi soci e i partiti democratici all
 In questo periodo, oltre alla normale vita associativa organizzata attraverso le varie attività (sezione cacciatori, sezione sportiva, sezione filodrammatica, sezione culturale con annessa biolioteca) non si trascurava la riorganizzazione sociale del paese a cui fu data fondamentale importanza; prova ne è che il Comando Alleato affidò alla Casa del Popol'o il compito di distribuire alle famiglie più bisognose aiuti e sovvenzioni.
 Nella Casa del Popolo vi erano confluite forze di più diverse estrazioni: cattolica, socialista, comunista unite da un solo ideale democratico di gestione socializzata di un organismo quale la Casa del Popolo, pur nel rispetto dei propri ideali politici.
 La consapevolezza del saper ben gestire strutture proprie fece pensare ali'eventuale fusione con la Cooperativa di consumo, unendo, così organismi popolari in una azione comune, tendente alla costruzione del benessere del popolo.
+
+![](storia/1946_cooperativa.webp)
+
 Successivamente la fusione non fu realizzata, in quanto pur essendo organismi paralleli erano diversi come funzione sociale: sopratutto politica quella della Casa del Popolo, essenzialmente commerciale quella della Cooperativa di Consumo.
   
 Il contributo di tutti permise nel 1947 di rientrare in possesso del locale teatro e di acquistare un ulteriore appczzamento di terreno per allargare la pista all'aperto. La Casa del Popolo era quindi in una crisi di crescenza, ma l'impegno di tutti alleggeriva eventuali pericoli di questi atti.
@@ -89,14 +94,15 @@ Gli appelli alla vigilanza e al controllo fecero tornare indietro la vita democr
 Nel 1955 arriva un grosso problema: la televisione.
 Si provvedé all'immediato acquisto dell'apparecchio e cominciarono subito discussioni sulla sua collocazione; chi lo desiderava in un locale chi in un altro.
 
+![](storia/1949_inaugurazione.webp)
 28 maggio 1949. Particolari della inaugurazione della Casa del Popolo
-  
+![](storia/1949_inaugurazione_2.webp)
+
 ## DAL 1956 AD OGGI
 L'inizio delle regolari trasmissioni televisive avvenne fra gli anni 1954/55; questo periodo segna l'inizio di uno dei più grandi e larghi consumi della nostra società. Trasmissioni come "Lascia o Raddoppia" polarizzarono l 'interesse di milioni e milioni di spettatori per anni avendo come unico fine quello di propinare bassa cultura, distogliendo da interessi più reali ed attuali. Ne conseguì che l'italiano medio riceveva una falsa immagine dell'intellettuale, reputando così genio chi aveva solo lo scopo di essere "personaggio" per la televisione.
 La televisione diventò così strumento della classe politca dominante per far circolare ad un numero sempre più vasto di persone ed in modo molto più comodo e più difetto la propria propaganda e quello che in ogni momento politico doveva essere rappresentato come fatto più importante o come situazione più
 interessante, determinando così scelte politiche ben precise, strumentalizzando in pieno un mezzo di comunicazione che sarebbe potuto servire in modo perfetto per la più vasta opera di culturalizzazione del popolo.
-Le famiglie fecero poi la corsa ad acquistare la TV e potersela vedere da soli a
-casa propria.
+Le famiglie fecero poi la corsa ad acquistare la TV e potersela vedere da soli a casa propria.
 Nel 1957 si costituì per mezzo delle Case del Popolo più democratiche l'A.R.C.I., organismo alternativo all'E.N.A.L., per gestire i circoli ricreativi; infinite difficoltà impedirono il normale svolgimento delle sue funzioni per ben 10 anni.
 La necessità dell'economia italiana di espansione e di ricerca di nuovi mercati, portò l'industria italiana a produrre in misura sempre più larga, prodotti e generi di largo, medio e basso consumo, incrementando così la necessità di mano d'opera, favorendo l'occupazione, stabilendo un più alto livello di remunerazione operaia, ma soprattutto la propria sopravvivenza.
 L'operaio medio italiano ricevette così da questo periodo un più alto tenore di vita, ma indubbiamente a proprie spese. Infatti nelle case si cominciò a sentire l'esigenza del frigorifero, della TV, più tardi della lavatrice e di ogni sorta di prodotti che lui produceva arricchendo il padrone, avendo così l'illusione di più alti guadagni, ma con un'esigenza in più: quella di consumare.
