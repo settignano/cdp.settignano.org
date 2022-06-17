@@ -1,6 +1,6 @@
 ---
 title: "Il Consiglio della Casa del Popolo di Settignano"
-summary: "un racconto scritto nel 1972"
+summary: ""
 linktitle: Consiglio
 date: 2022-05-21T00:00:00
 type: book
@@ -30,6 +30,7 @@ draft: false
 
 ## 2019-2021
 **Presidente**: Ivan Gottlieb
+**Segretario:** Massimo Liverani
 **Tesoriera**: Mariagrazia Peroni
 
 - Alessio Simonini
@@ -39,7 +40,6 @@ draft: false
 - Gabriele Conti
 - Lorenzo Ugolini
 - Luca Pettinicchio
-- Massimiliano Liverani
 - Moreno Pandolfi
 - Nicola Vannini
 - Rosalba Gioffré
