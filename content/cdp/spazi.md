@@ -17,13 +17,39 @@ Nel nostro edificio di 3 piani ed esterno, sono molti gli spazi a disposizione d
 ## Bar
 ![](albums/cdp/bar.webp)
 
+## Terrazza
+
 ## Salone
 ![](albums/cdp/mercatino.webp)
 
 ## Sala Mondo
 ![](albums/cdp/sala_mondo.webp)
 
+## Cucina
+
+## Segreteria
+
 ## Teatro
+
+## Stanza Associazione
+
+## Centro Documentazione
+
+## Scuola di Musica
+
+## Camera Oscura
+
+## Ludoteca
+
+## Sala prove
+
+## Studio di Registrazione
+
+## Biblioteca
+
+## Magazzino
+
+## Laboratorio
 
 ## Piazzale / Pista
 ![](albums/cdp/piazzale.webp)
@@ -31,4 +57,7 @@ Nel nostro edificio di 3 piani ed esterno, sono molti gli spazi a disposizione d
 ## Giardino
 ![](albums/cdp/calcino.webp)
 
+## Cucina esterna
+
+## Bar esterno
 
