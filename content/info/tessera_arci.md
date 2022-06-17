@@ -1,10 +1,10 @@
 ---
-title: "FAQ Tessera Arci"
-summary: ""
+title: "Tessera Arci"
+summary: "tutto quello che devi sapere"
 linktitle: Tessera ARCI
 date: 2022-05-21T00:00:00
 type: book
-weight: 30
+weight: 100
 show_date: false
 toc: true
 draft: false

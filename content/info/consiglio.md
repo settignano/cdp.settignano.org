@@ -1,7 +1,7 @@
 ---
 title: "Il Consiglio della Casa del Popolo di Settignano"
-summary: ""
-linktitle: Consiglio
+summary: "composizioni e riferimenti"
+linktitle: Il Consiglio
 date: 2022-05-21T00:00:00
 type: book
 weight: 30
@@ -15,22 +15,22 @@ Il Consiglio Direttivo è eletto dall’Assemblea dei soci, ed è composto da un
 ![](foto/consiglio2022.webp)
 
 ## 2021-2023
-**Presidentessa**: Rosalba Gioffré
-**Tesoriera**: Mariagrazia Peroni
-**Segretaria**: Virginia Ferraro
+**Presidentessa**: Rosalba Gioffré (cucina)
+**Tesoriera**: Mariagrazia Peroni (bar)
+**Segretaria**: Virginia Ferraro (comunicazione)
 
-- Alex Corti
-- Barbara Giovino
-- Beppe Sarti
-- Ginevra De Marco
-- Guido Chiuderi
-- Ivan Gottlieb
-- Lorenzo Ugolini
+- Alex Corti (manutenzione, giovani)
+- Barbara Giovino (cinema, relazioni)
+- Beppe Sarti (eventi, manutenzione)
+- Ginevra De Marco (eventi ludoteca)
+- Guido Chiuderi (comunicazione)
+- Ivan Gottlieb (eventi culturali)
+- Lorenzo Ugolini (scuola musica)
 - Martina Rusconi
-- Marzia Archinucci
-- Serena Draghi Lorenz
+- Marzia Archinucci (eventi)
+- Serena Draghi Lorenz (relazioni)
 - Sergio Chiuderi
-- Stefano Cecere
+- Stefano Cecere (comunicazione, ludismo, giovani)
 
 ## 2019-2021
 **Presidente**: Ivan Gottlieb
