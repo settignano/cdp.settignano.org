@@ -10,6 +10,8 @@ toc: true
 draft: false
 ---
 
+Il Consiglio Direttivo è eletto dall’Assemblea dei soci, ed è composto da un minimo di 5 ad un massimo di 15 membri eletti fra i/le soci/e, dura in carica tre anni (due, fino al 2020) ed i suoi componenti sono rieleggibili.
+
 ## 2021-2023
 **Presidentessa**: Rosalba Gioffré
 **Tesoriera**: Mariagrazia Peroni

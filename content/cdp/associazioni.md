@@ -1,14 +1,10 @@
 ---
-title: La Casa del Popolo
+title: Associazioni permanenti
 summary: ufficiali della CdP
 date: 2022-05-01
-type: 
+type: book
 show_date: false
 ---
-
-Dal 1946 promuoviamo territorio, cultura, politica, arte, socialità, musica, cineforum, centri estivi, ludoteca, attività ricreative, formazione.
-
-## Attivita e Associazioni permanenti
 
 ### Scuola di Musica di Settignano
 La Scuola di Musica di Settignano nasce nel 2002 dalla passione per la musica e l’insegnamento dei maestri Claudio Teobaldelli e Stefano Corsi che, in collaborazione con la Ludoteca della CDP, hanno dato vita a questa avventura! 

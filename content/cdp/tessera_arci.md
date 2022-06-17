@@ -5,7 +5,7 @@ linktitle: Tessera ARCI
 date: 2022-05-21T00:00:00
 type: book
 weight: 30
-show_date: true
+show_date: false
 toc: true
 draft: false
 ---
