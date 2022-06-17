@@ -199,7 +199,7 @@ m) delibera sugli altri oggetti attribuiti dalla legge o dal presente Statuto al
 
 ### Articolo 22 
 Il Consiglio Direttivo è eletto dall'Assemblea dei soci, ed è composto da un minimo di 5 ad un massimo di 15 membri eletti fra i/le soci/e. Il Consiglio Direttivo è l'organo di amministrazione previsto dall'art. 26 del CTS, dura in carica tre anni ed i suoi componenti sono rieleggibili.  
-I componenti del Consiglio Direttivo non devono trovarsi in nessuna condizione di incompatibilità previste dall’art 2382 del codice civile (Cause di ineleggibilità e di decadenza). 
+I componenti del Consiglio Direttivo non devono trovarsi in nessuna condizione di incompatibilità previste dall’[art. 2382 del Codice Civile](https://www.gazzettaufficiale.it/dettaglio/codici/codiceCivile/2380_2_2) (Cause di ineleggibilità e di decadenza). 
 
 ### Articolo 23 
 Il Consiglio Direttivo nell'ambito delle proprie funzioni può avvalersi, per compiti operativi o di consulenza, di commissioni di lavoro da esso nominate, nonché dell'attività volontaria di soci/e, in grado, per competenze specifiche, di contribuire alla realizzazione di specifici programmi, ovvero costituire, quando ritenuto indispensabile, specifici rapporti professionali, secondo quanto previsto dall'art. 4. 
@@ -270,3 +270,7 @@ In caso di estinzione o scioglimento dell'Associazione il patrimonio, dedotte le
 ### Articolo 31 
 Per quanto non previsto dallo statuto o dal regolamento interno, decide l'Assemblea a norma dello statuto nazionale di “ARCI APS”, del CTS, del Codice Civile e delle norme vigenti.   
 Il/la Segretario/a Il/la Presidente
+
+---
+Riferimenti
+- [Codice del Terzo Settore (CTS)](https://www.gazzettaufficiale.it/dettaglio/codici/terzoSettore)
