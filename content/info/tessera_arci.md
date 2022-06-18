@@ -35,7 +35,7 @@ Per consultare l'elenco degli esercizi convenzionati vai qui: http://www.arci.it
 Diventando socio Arci, oltre a partecipare alle attività e iniziative promosse dai circoli, si potrà accedere a numerosi sconti e facilitazioni riservate ai soci: mostre, eventi, festival, musei, teatri, cinema, convenzioni editoriali, polizze assicurative. Scoprili tutti su [questa pagina](http://arci.it/convenzioni/).
 
 ## Quanto costa la tessera Arci?
-Costa 12 euro ed è valida per l'intero anno in cui viene fatta, dal 1 ottobre al 30 settembre successivo.
+Costa 13 euro (6 euro se hai meno di 40 anni) ed è valida per l'intero anno in cui viene fatta, dal 1 ottobre al 30 settembre successivo.
 Nel corso dell'anno la tessera può subire riduzioni di costo, stabilite dall'Arci e che i circoli applicano di conseguenza.
 
 ## Mio figlio minorenne deve fare la tessera?
