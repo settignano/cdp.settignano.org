@@ -19,6 +19,7 @@ Nel nostro edificio di 3 piani ed esterno, abbiamo circa 800mq di spazi a dispos
 ### Bar
 ![](spazi/bar.webp)
 ![](spazi/bar_2.webp)
+![](spazi/bar_3.webp)
 
 ### Terrazza
 ![](spazi/terrazza.webp)
@@ -85,22 +86,28 @@ Nel nostro edificio di 3 piani ed esterno, abbiamo circa 800mq di spazi a dispos
 ### Magazzino
 
 ### Laboratorio
+![](spazi/laboratorio.webp)
 - Come vi accedo?
-
 
 ## Esterni
 
 ### Piazzale / Pista
+![](spazi/piazzale_2.webp)
 ![](spazi/piazzale.webp)
 ![](spazi/pista.webp)
+![](spazi/calcino.webp)
 
 ### Giardino
-![](spazi/calcino.webp)
 ![](spazi/giardino.webp)
 ![](spazi/giardino_2.webp)
+![](spazi/giardino_3.webp)
 
 ### Tettoia Ping Pong
+![](spazi/pingpong.webp)
 - Come si usa il Ping Pong?
+è libero e gratuito, salvo far giocare un po' tutti.
+dando una cauzione di 5 euro al bar riceverete racchette e palline.
+se non romperete niente vi saranno restituiti dopo aver giocato.
 
 ### Cucina esterna
 
