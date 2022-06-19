@@ -21,9 +21,13 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:settignanocdp@gmail.com'
+    display:
+      header: true
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/settignanocdp
+    display:
+      header: true
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/cdpsettignano/
@@ -34,3 +38,4 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
+

@@ -171,11 +171,6 @@ L'angolo ludico esterno al coperto.
 dando una cauzione di 5 euro al bar riceverete racchette e palline.
 se non romperete niente vi saranno restituiti dopo aver giocato.
 {{< /spoiler >}}
- 
-### Cucina esterna
-{{< gallery album="spazi/cucina-esterna/" resize_options="250x200" >}}
-
-Questa cucina è usata sopratutto in estate come appoggio ai grandi eventi nel piazzale.
 
 ### Zona Ecostazione
 
