@@ -18,6 +18,7 @@ Nel nostro edificio di 3 piani ed esterno, abbiamo circa 800mq di spazi a dispos
 
 ### Bar
 ![](spazi/bar.webp)
+![](spazi/bar_2.webp)
 
 ### Terrazza
 ![](spazi/terrazza.webp)
@@ -41,6 +42,7 @@ Nel nostro edificio di 3 piani ed esterno, abbiamo circa 800mq di spazi a dispos
 - Come si installa una esposizione di quadri?
 
 ### Cucina
+![](spazi/cucina.webp)
 
 ### Segreteria
 
@@ -53,8 +55,10 @@ Nel nostro edificio di 3 piani ed esterno, abbiamo circa 800mq di spazi a dispos
 ### Stanza Associazione
 
 ### Centro Documentazione
+![](spazi/centro_documentazione.webp)
 
 ### Scuola di Musica
+![](spazi/scuola_musica.webp)
 
 ### Camera Oscura
 
@@ -73,6 +77,7 @@ Nel nostro edificio di 3 piani ed esterno, abbiamo circa 800mq di spazi a dispos
 
 
 ### Biblioteca
+![](spazi/biblioteca.webp)
 - Come si possono prendere in prestito i libri?
   
 ### Magazzino
@@ -90,6 +95,7 @@ Nel nostro edificio di 3 piani ed esterno, abbiamo circa 800mq di spazi a dispos
 ### Giardino
 ![](spazi/calcino.webp)
 ![](spazi/giardino.webp)
+![](spazi/giardino_2.webp)
 
 ### Tettoia Ping Pong
 - Come si usa il Ping Pong?
