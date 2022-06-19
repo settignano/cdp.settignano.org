@@ -120,7 +120,7 @@ Dagli anni '80 la CdP di Settignano è un centro di aggregazione musicale di tut
 
 Libri di tutti i tipi in questa fresca stanza con affaccio sul piazzale.
 
-{{< spoiler text="Domande sulla BIBLITECA" >}}
+{{< spoiler text="Domande sulla BIBLIOTECA" >}}
 - Come si possono prendere in prestito i libri?
 {{< /spoiler >}}
  
