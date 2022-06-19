@@ -20,21 +20,21 @@ Nel nostro edificio di 3 piani ed esterno, abbiamo circa 800mq di spazi a dispos
 {{< gallery album="spazi/bar/" resize_options="250x200" >}}
 Il Bar è un po' il cuore pulsante della socialità della CdP
 
-{{< spoiler text="Domande sul BAR" >}}
+{{< spoiler text="INFORMAZIONI - BAR" >}}
 - C'è un listono prezzi?
 - Quando è aperto?
 {{< /spoiler >}}
 
 ### Terrazza
 {{< gallery album="spazi/terrazza/" resize_options="250x200" >}}
-Dal bar si esce in terrazza con vista su Firenze.
+Dal bar si esce in terrazza con vista su Firenze. Qui la brezza non manca mai e i tramonti sono da sogno.
 
 ### Salone ingresso
 {{< gallery album="spazi/salone/" resize_options="250x200" >}}
 
 Un po' più di un ingresso: qui si fanno cene, concerti, mercatini. Si gioca a calcino (d'inverno), si lavora, si balla.
 
-{{< spoiler text="Domande sul SALONE" >}}
+{{< spoiler text="INFORMAZIONI - SALONE" >}}
 - Come si accede con una carrozzella?
 - Come si accendono le luci?
 {{< /spoiler >}}
@@ -44,7 +44,7 @@ Un po' più di un ingresso: qui si fanno cene, concerti, mercatini. Si gioca a c
 
 La nostra rinnovata sala polifunzionale, dotata di wifi, proiettore, tavoli esagonali. Corsi, presentazioni, mostre, proiezioni, giochi da tavolo, cene, laboratori.. si fa davvero di tutto.
 
-{{< spoiler text="Domande sulla Sala Mondo" >}}
+{{< spoiler text="INFORMAZIONI - la Sala Mondo" >}}
 - Come si proietta un film?
 - Come si accende il riscaldamento?
 - Come si installa una esposizione di quadri?
@@ -53,10 +53,14 @@ La nostra rinnovata sala polifunzionale, dotata di wifi, proiettore, tavoli esag
 ### Cucina
 {{< gallery album="spazi/cucina/" resize_options="250x200" >}}
 
+Decine di migliaia di persone sono state nutrite da questa cucina, in grado di supportare tanto piccoli pasti quanto per centinaia di persone, e un grande forno per le pizze.
+
 ### Bagno
 {{< gallery album="spazi/bagno/" resize_options="250x200" >}}
 
-{{< spoiler text="Domande sul BAGNO" >}}
+Con grande porta per accesso disabili. La chiave si chiede al bar.
+
+{{< spoiler text="INFORMAZIONI - BAGNO" >}}
 - Dove trovo sapone e carta igienica
 {{< /spoiler >}}
 
@@ -75,9 +79,9 @@ Lo spazio più grande: per il cinema e gli spettacoli, presentazioni e incontri,
 ### Stanza Associazione
 {{< gallery album="spazi/sala-associazioni/" resize_options="250x200" >}}
 
-L'Associazione La Fonte ha sede qui, a volte viene usata anche da altre realtà.
+L'Associazione La Fonte ha sede qui, a volte viene usata anche da altre realtà, dalle riunioni allo Shiatzu.
 
-### Sala della Documentazione
+### Centro Studi e Documentazione
 {{< gallery album="spazi/centro-studi/" resize_options="250x200" >}}
 
 La biblioteca popolare e il Centro Documentazione Carlo Giuliani.
@@ -87,10 +91,11 @@ La biblioteca popolare e il Centro Documentazione Carlo Giuliani.
 
 Nell'attico ci sono le due stanza della scuola di musica, oltre che per i laboratori sonori.
 
-### Camera Oscura
+### Camera Segreta
 {{< gallery album="spazi/sala-oscura/" resize_options="250x200" >}}
 
 La stanza più segreta della CdP: la troverete?
+Decenni fa qui c'era una camera oscura per la fotografia...
 
 ## Piano zero
 
@@ -99,7 +104,8 @@ La stanza più segreta della CdP: la troverete?
 
 Con affaccio sul piazzale, qui si fanno i centri estivi e le feste di compleanno per bambini, laboratori e spettacolini.
 
-{{< spoiler text="Domande sulla LUDOTECA" >}}
+{{< spoiler text="INFORMAZIONI - la LUDOTECA" >}}
+- Posso organizzarci una festa?
 - Come si regola il riscaldamento?
 - Posso portarvi dei giochi?
 {{< /spoiler >}}
@@ -109,7 +115,7 @@ Con affaccio sul piazzale, qui si fanno i centri estivi e le feste di compleanno
 
 Dagli anni '80 la CdP di Settignano è un centro di aggregazione musicale di tutto rispetto.
 
-{{< spoiler text="Domande sulla SALA PROVE" >}}
+{{< spoiler text="INFORMAZIONI - la SALA PROVE" >}}
 - Come si può usare?
 - Che strumenti avete?
 - Posso collaborare?
@@ -120,19 +126,22 @@ Dagli anni '80 la CdP di Settignano è un centro di aggregazione musicale di tut
 
 Libri di tutti i tipi in questa fresca stanza con affaccio sul piazzale.
 
-{{< spoiler text="Domande sulla BIBLIOTECA" >}}
+{{< spoiler text="INFORMAZIONI - la BIBLIOTECA" >}}
 - Come si possono prendere in prestito i libri?
 {{< /spoiler >}}
  
 ### Magazzino
 {{< gallery album="spazi/magazzino/" resize_options="250x200" >}}
 
+Qui ci teniamo gli archivi di molte cose. 
+
 ### Laboratorio
 {{< gallery album="spazi/laboratorio/" resize_options="250x200" >}}
 
 Il covo della manutenzione e dell'aggiustamento.
+Qui temiamo tutti gli attrezzi: falegnameria, elettricità, imbiancature, idraulica...
 
-{{< spoiler text="Domande sul LABORATORIO" >}}
+{{< spoiler text="INFORMAZIONI - LABORATORIO" >}}
 - Come vi accedo?
 - Posso portarvi degli strumenti?
 - Posso venire ad aggiustare qualcosa?
@@ -149,10 +158,14 @@ Il covo della manutenzione e dell'aggiustamento.
 ### Bar giardino
 {{< gallery album="spazi/giardino-bar/" resize_options="250x200" >}}
 
+Usato d'estate per eventi speciali. Sarebbe un po' da rinnovare.
+
 ### Tettoia Ping Pong
 {{< gallery album="spazi/tettoia/" resize_options="250x200" >}}
 
-{{< spoiler text="Domande sul PING PONG" >}}
+L'angolo ludico esterno al coperto.
+
+{{< spoiler text="INFORMAZIONI - PING PONG" >}}
 - Come si usa il Ping Pong?
 è libero e gratuito, salvo far giocare un po' tutti.
 dando una cauzione di 5 euro al bar riceverete racchette e palline.
@@ -162,9 +175,13 @@ se non romperete niente vi saranno restituiti dopo aver giocato.
 ### Cucina esterna
 {{< gallery album="spazi/cucina-esterna/" resize_options="250x200" >}}
 
+Questa cucina è usata sopratutto in estate come appoggio ai grandi eventi nel piazzale.
+
 ### Zona Ecostazione
 
-{{< spoiler text="Domande sulla Ecostazione" >}}
+Qui c'è la raccolta di medicinali scaduti, oli esausti, batterie...
+
+{{< spoiler text="INFORMAZIONI - la Ecostazione" >}}
 - Quando viene ritirata la roba?
 - Chi conosce come funziona?
 {{< /spoiler >}}

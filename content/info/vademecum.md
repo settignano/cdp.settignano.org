@@ -46,3 +46,7 @@ Le maggiori entrate economiche sono dal bar e dalle cene di autofinanziamento.
 Poi qualcosa ci entra con la scuola di musica, dai centri estivi e dalle attività svolte.
 Infine da donazioni.
 
+### Posso portare delle cose?
+Una regola della CdP è che tutto quello che entra o diventa proprietà della CdP (quindi di tutti) oppure è dato in "comodato", ovvero in prestito. Però non c'è nessuna garanzia in caso di danneggiamento.
+Quindi si, potrai portare delle tue cose, ma non perché non sai dove metterle. La CdP non è un magazzino!
+
