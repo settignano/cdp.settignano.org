@@ -14,7 +14,8 @@ Il Consiglio Direttivo è eletto dall’Assemblea dei soci, ed è composto da un
 
 ![](foto/consiglio2022.webp)
 
-## 2021-2023
+## 2021-2024
+Elezione: 24 Ottobre 2021
 **Presidentessa**: Rosalba Gioffré
 **Tesoriera**: Mariagrazia Peroni
 **Segretaria**: Virginia Ferraro
