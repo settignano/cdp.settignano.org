@@ -45,6 +45,7 @@ Nel nostro edificio di 3 piani ed esterno, abbiamo circa 800mq di spazi a dispos
 ![](spazi/cucina.webp)
 
 ### Segreteria
+![](spazi/segreteria.webp)
 
 ## Primo piano
 
@@ -65,6 +66,7 @@ Nel nostro edificio di 3 piani ed esterno, abbiamo circa 800mq di spazi a dispos
 ## Piano zero
 
 ### Ludoteca
+![](spazi/ludoteca.webp)
 - Come si regola il riscaldamento?
 - Posso portarvi dei giochi?
 
