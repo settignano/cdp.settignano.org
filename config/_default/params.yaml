@@ -1,7 +1,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: cdp
   theme_night: 
   font: native
   font_size: L
