@@ -21,10 +21,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:settignanocdp@gmail.com'
+    label: "Scrivici per email"
+    display:
+      header: true
+  - icon: phone
+    icon_pack: fas
+    link: 'tel:055697007'
+    label: "Telefonaci"
     display:
       header: true
   - icon: facebook
     icon_pack: fab
+    label: "Pagina Facebook"
     link: https://www.facebook.com/settignanocdp
     display:
       header: true

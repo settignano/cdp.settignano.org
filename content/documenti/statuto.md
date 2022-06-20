@@ -1,5 +1,5 @@
 ---
-title: "Statuto “CASA DEL POPOLO DI SETTIGNANO ARCI APS”"
+title: "Statuto della CdP di Settignano"
 summary: "Lo Statuto della CdP di Settignano"
 linktitle: Statuto
 date: 2019-06-28T00:00:00

@@ -10,6 +10,8 @@ toc: true
 draft: false
 ---
 
+La nostra Casa del Popolo è un circolo ARCI e per associarsi basta prendere visione del nostro [Statuto](/documenti/statuto), condividerne i valori e fare la tessera ARCI.
+
 ## Serve la tessera Arci per entrare in CdP?
 Sì, come in tutti i circoli Arci d'Italia, serve la tessera Arci per entrare ed usufruire dei servizi e delle attività.
 **La tessera nei circoli ARCI è obbligatoria per legge**.
@@ -42,9 +44,6 @@ Nel corso dell'anno la tessera può subire riduzioni di costo, stabilite dall'Ar
 La tessera ARCI è **facoltativa sotto i 18 anni**.
 A partire dai 14 anni, è obbligatoria solo nel caso in cui il minorenne intenda frequentare il circolo da solo.
 Il modulo di adesione del minorenne deve essere firmato dal genitore.
-
-## L'ARCI è un posto da comunisti?
-L'ARCI è per statuto un'associazione apolitica e apartitica, chiunque può associarsi senza distinzione.
 
 ## Se ho smarrito la tessera o se me l'hanno rubata mi potete rilasciare un duplicato?
 Per il rilascio del duplicato gratuito occorre inviare alla sede centrale dell'Arci Nazionale copia della denuncia di furto o smarrimento, copia del documento di identità e del modulo di adesione.

@@ -19,4 +19,5 @@ design:
     text_color_light: true
 ---
 
-# Benvenuti nel sito della Casa del Popolo di Settignano!
+# Casa del Popolo di Settignano
+Dal 1946 a Firenze promuoviamo territorio, cultura, politica, arte, socialità, solidarietà, musica, teatro, cineforum, centri estivi, ludoteca, attività ricreative, formazione.

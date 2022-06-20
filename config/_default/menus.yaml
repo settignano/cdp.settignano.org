@@ -19,3 +19,8 @@ main:
   - name: Contatti
     url: "#contatti"
     weight: 100
+
+main_right:
+  - name: Newsletter
+    url: newsletter/
+    weight: 10
