@@ -13,7 +13,7 @@ main:
   - name: Informazioni
     url: info/
     weight: 20
-  - name: Attività
+  - name: Calendario
     url: calendario/
     weight: 30
   - name: Documenti
