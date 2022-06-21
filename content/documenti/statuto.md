@@ -272,5 +272,14 @@ Per quanto non previsto dallo statuto o dal regolamento interno, decide l'Assemb
 Il/la Segretario/a Il/la Presidente
 
 ---
-Riferimenti
+## Appendici
+
+### Modifiche
+Lo statuto della CdP è stato rinnovato nel 2019 come da seguente verbale:
+**Verbale di Assemblea Straordinaria dei soci Del circolo "Casa del Popolo di Settignano ARCI APS" (modifica dello Statuto sociale)**
+L'anno 2019, il giorno 28 giugno alle ore 19:00 presso la sede sociale di via San Romano 1, si è riunita l'Assemblea straordinaria dei soci dell'Associazione "Casa del Popolo di Settignano" per discutere e deliberare sul seguente ordine del giorno Modifica dello Statuto: adozione del modello di statuto APS predisposto DALLA Rete associativa nazionale ARCI aps, ai sensi dell'art.47 comma 5 del Codice del Terzo Settore, D.Lgs 117/2017.
+Su designazione unanime degli intervenuti assume la presidenza dell'Assemblea il President dell'Associazione, il sig. Ivan Gottlieb, il quale chiama alle funzioni di Segretaria la sig.a Chiara Sommavilla. Il Presidente rileva che la riunione è stata regolarmente convocata secondo le norme statutarie. Constata altresì che l'Assemblea è regolarmente costituita ed atta a deliberare validamente sugli argomenti posti all'ordine del giorno in sede di second convocazione.
+Passando alla trattazione dell'ordine del giorno, il President comunica che il Consiglio Direttivo ha ritenuto necessario indire 'Assemblea dei soci per modificare lo statuto sociale, e che tali modifiche rispondono all'esigenza di adeguamento dello Statuto rispetto alle modifiche obbligatoriamente introdotte dal nuovo Codice del Terzo Settore (D.Lgs 117/2017), all'esigenza di adeguamento dello Statuto rispetto al novo Statuto nazionale ARCI aps, cui l'Associazione aderisce, nonché alla volontà dell'Associazione di introdurre a livello statutario ulteriori modifiche rispetto al testo dello Statuto attualmente vigente.
+
+### Riferimenti
 - [Codice del Terzo Settore (CTS)](https://www.gazzettaufficiale.it/dettaglio/codici/terzoSettore)

@@ -76,7 +76,7 @@ Ad uso quasi esclusivo del Consiglio e delle Associazioni.
 
 Lo spazio più grande: per il cinema e gli spettacoli, presentazioni e incontri, corsi Yoga, saggi di musica, corsi di teatro...
 
-### Stanza Associazione
+### Stanza Associazioni
 {{< gallery album="spazi/sala-associazioni/" resize_options="250x200" >}}
 
 L'Associazione La Fonte ha sede qui, a volte viene usata anche da altre realtà, dalle riunioni allo Shiatzu.
@@ -86,7 +86,7 @@ L'Associazione La Fonte ha sede qui, a volte viene usata anche da altre realtà,
 
 La biblioteca popolare e il Centro Documentazione Carlo Giuliani.
 
-### Sale della Musica
+### Stanze della Musica
 {{< gallery album="spazi/sala-musica/" resize_options="250x200" >}}
 
 Nell'attico ci sono le due stanza della scuola di musica, oltre che per i laboratori sonori.
@@ -152,8 +152,12 @@ Qui temiamo tutti gli attrezzi: falegnameria, elettricità, imbiancature, idraul
 ### Piazzale / Pista
 {{< gallery album="spazi/piazzale/" resize_options="250x200" >}}
 
+Con grande palco coperto e attrezzato, il piazzale si presta tanto a cene da centinaia di persone a spettacoli musicali/teatrali, partite a calcetto o badminton.
+
 ### Giardino
 {{< gallery album="spazi/giardino/" resize_options="250x200" >}}
+
+A cura di volontari giardinieri, il giardino si affaccia su Firenze.
 
 ### Bar giardino
 {{< gallery album="spazi/giardino-bar/" resize_options="250x200" >}}
