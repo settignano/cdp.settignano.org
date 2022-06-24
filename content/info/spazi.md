@@ -106,8 +106,9 @@ Con affaccio sul piazzale, qui si fanno i centri estivi e le feste di compleanno
 
 {{< spoiler text="INFORMAZIONI - la LUDOTECA" >}}
 - Posso organizzarci una festa?
-- Come si regola il riscaldamento?
+Chiamateci!
 - Posso portarvi dei giochi?
+Certo, però solo se sono integri e funzionanti (non siamo una discarica, per intenderci). Chiamateci prima di portare qualsiasi cosa!
 {{< /spoiler >}}
 
 ### Sala prove e Studio di Registrazione
@@ -128,6 +129,7 @@ Libri di tutti i tipi in questa fresca stanza con affaccio sul piazzale.
 
 {{< spoiler text="INFORMAZIONI - la BIBLIOTECA" >}}
 - Come si possono prendere in prestito i libri?
+Per ora i libri sono solo per consultazione in loco.
 {{< /spoiler >}}
  
 ### Magazzino
@@ -176,12 +178,9 @@ dando una cauzione di 5 euro al bar riceverete racchette e palline.
 se non romperete niente vi saranno restituiti dopo aver giocato.
 {{< /spoiler >}}
 
-### Zona Ecostazione
+### Ecotappa
 
-Qui c'è la raccolta di medicinali scaduti, oli esausti, batterie...
+{{< gallery album="spazi/ecotappa/" resize_options="250x200" >}}
 
-{{< spoiler text="INFORMAZIONI - la Ecostazione" >}}
-- Quando viene ritirata la roba?
-- Chi conosce come funziona?
-{{< /spoiler >}}
+L’Ecotappa è un punto di raccolta dove i cittadini possono portare i propri rifiuti di provenienza domestica che non possono essere conferiti nei contenitori presenti su strada e precisamente: olio vegetale usato, bombolette spray, toner e cartucce esauste per fax e stampanti, pile esauste, farmaci scaduti, piccoli elettrodomestici fuori uso (RAEE). 
  
