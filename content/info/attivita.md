@@ -1,6 +1,6 @@
 ---
-title: Associazioni residenti
-summary: "ospitate dalla CdP"
+title: Attività permamenti
+summary: "promosse o ospitate dalla CdP"
 date: 2022-05-01
 type: book
 show_date: false
