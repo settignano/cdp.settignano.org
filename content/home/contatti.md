@@ -42,7 +42,7 @@ content:
     - icon: newspaper
       icon_pack: fas
       name: Newsletter
-      link: https://www.autistici.org/mailman/listinfo/socicdpsett
+      link: https://cdp.settignano.org/newsletter/
     - icon: facebook
       icon_pack: fab
       name: Facebook
