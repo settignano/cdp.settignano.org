@@ -10,7 +10,7 @@ toc: true
 draft: false
 ---
 
-Il Consiglio Direttivo è eletto dall’Assemblea dei soci, ed è composto da un minimo di 5 ad un massimo di 15 membri eletti fra i/le soci/e, dura in carica tre anni (due, fino al 2020) ed i suoi componenti sono rieleggibili.
+Il Consiglio Direttivo è eletto dall’Assemblea dei soci, ed è composto da un minimo di 5 ad un massimo di 15 membri eletti fra i/le soci/e, dura in carica tre anni (erano due fino al 2020) ed i suoi componenti sono rieleggibili.
 
 ![](foto/consiglio2022.webp)
 
@@ -19,7 +19,7 @@ Elezione: 24 Ottobre 2021
 
 - Alex Corti
 - Ginevra De Marco
-- Giovanna Conti
+- Giovanna Conti (da settembre 2022)
 - Giuseppe "Beppe" Sarti
 - Guido Chiuderi
 - Ivan Gottlieb
@@ -49,7 +49,7 @@ Elezione: 24 Ottobre 2021
 - Massimo Liverani (**segreteria**)
 - Moreno Pandolfi
 - Nicola Vannini
-- Rosalba Gioffré
+- Rosalba Gioffré (**vice-presidenza**)
 - Sergio Chiuderi
 
 ## 2017-2019
