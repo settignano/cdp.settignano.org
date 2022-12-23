@@ -24,29 +24,29 @@ Elezione: 24 Ottobre 2021
 - Guido Chiuderi
 - Ivan Gottlieb
 - Lorenzo Ugolini
-- Mariagrazia Peroni (tesoreria)
+- Mariagrazia Peroni (**tesoreria**)
 - Marzia Archinucci
-- Rosalba Gioffré (presidenza)
+- Rosalba Gioffré (**presidenza**)
 - Serena Draghi Lorenz
 - Sergio Chiuderi
-- Stefano Cecere (vice-presidenza)
-- Virginia Ferraro (segreteria)
-
+- Stefano Cecere (**vice-presidenza**)
+- Virginia Ferraro (**segreteria**)
+  
 - Barbara Giovino (fino a giugno 2022)
 - Martina Rusconi  (fino a dicembre 2022)
 
 ## 2019-2021
-**Presidente**: Ivan Gottlieb
-**Segretario:** Massimo Liverani
-**Tesoriera**: Mariagrazia Peroni
 
 - Alessio Simonini
 - Camilla Conti
 - Christian Caglieri
 - Gabriele Conti
 - Giuseppe "Beppe" Sarti
+- Ivan Gottlieb (**presidenza**)
 - Lorenzo Ugolini
 - Luca Pettinicchio
+- Mariagrazia Peroni (**tesoreria**)
+- Massimo Liverani (**segreteria**)
 - Moreno Pandolfi
 - Nicola Vannini
 - Rosalba Gioffré
