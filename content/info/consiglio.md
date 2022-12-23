@@ -16,22 +16,24 @@ Il Consiglio Direttivo è eletto dall’Assemblea dei soci, ed è composto da un
 
 ## 2021-2024
 Elezione: 24 Ottobre 2021
-**Presidentessa**: Rosalba Gioffré
-**Tesoriera**: Mariagrazia Peroni
-**Segretaria**: Virginia Ferraro
 
 - Alex Corti
-- Barbara Giovino
 - Ginevra De Marco
+- Giovanna Conti
 - Giuseppe "Beppe" Sarti
 - Guido Chiuderi
 - Ivan Gottlieb
 - Lorenzo Ugolini
-- Martina Rusconi
+- Mariagrazia Peroni (tesoreria)
 - Marzia Archinucci
+- Rosalba Gioffré (presidenza)
 - Serena Draghi Lorenz
 - Sergio Chiuderi
-- Stefano Cecere
+- Stefano Cecere (vice-presidenza)
+- Virginia Ferraro (segreteria)
+
+- Barbara Giovino (fino a giugno 2022)
+- Martina Rusconi  (fino a dicembre 2022)
 
 ## 2019-2021
 **Presidente**: Ivan Gottlieb
