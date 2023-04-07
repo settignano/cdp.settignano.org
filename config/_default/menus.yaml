@@ -7,23 +7,15 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: News
-    url: post/
+  - name: Newsletter
+    url: https://cdpsettignano.substack.com
     weight: 15
   - name: Informazioni
     url: info/
     weight: 20
-  - name: Calendario
-    url: calendario/
-    weight: 30
   - name: Documenti
     url: documenti/
     weight: 50
   - name: Contatti
     url: "#contatti"
     weight: 100
-
-main_right:
-  - name: Newsletter
-    url: newsletter/
-    weight: 10
