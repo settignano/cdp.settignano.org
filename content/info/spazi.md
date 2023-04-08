@@ -12,12 +12,12 @@ draft: false
 
 Nel nostro edificio di 3 piani ed esterno, abbiamo circa 800mq di spazi a disposizione delle attività. Fatevi ispirare per riempirli con entusiasmo e solidarietà!
 
-{{< gallery album="spazi/esterno/" resize_options="250x200" >}}
+{{< gallery album="spazi/esterno/">}}
 
 ## Piano terra
 
 ### Bar
-{{< gallery album="spazi/bar/" resize_options="250x200" >}}
+{{< gallery album="spazi/bar/" >}}
 Il Bar è un po' il cuore pulsante della socialità della CdP
 
 {{< spoiler text="INFORMAZIONI - BAR" >}}
@@ -26,11 +26,11 @@ Il Bar è un po' il cuore pulsante della socialità della CdP
 {{< /spoiler >}}
 
 ### Terrazza
-{{< gallery album="spazi/terrazza/" resize_options="250x200" >}}
+{{< gallery album="spazi/terrazza/" >}}
 Dal bar si esce in terrazza con vista su Firenze. Qui la brezza non manca mai e i tramonti sono da sogno.
 
 ### Salone ingresso
-{{< gallery album="spazi/salone/" resize_options="250x200" >}}
+{{< gallery album="spazi/salone/" >}}
 
 Un po' più di un ingresso: qui si fanno cene, concerti, mercatini. Si gioca a calcino (d'inverno), si lavora, si balla.
 
@@ -40,7 +40,7 @@ Un po' più di un ingresso: qui si fanno cene, concerti, mercatini. Si gioca a c
 {{< /spoiler >}}
 
 ### Sala Mondo
-{{< gallery album="spazi/sala-mondo/" resize_options="250x200" >}}
+{{< gallery album="spazi/sala-mondo/" >}}
 
 La nostra rinnovata sala polifunzionale, dotata di wifi, proiettore, tavoli esagonali. Corsi, presentazioni, mostre, proiezioni, giochi da tavolo, cene, laboratori.. si fa davvero di tutto.
 
@@ -51,12 +51,12 @@ La nostra rinnovata sala polifunzionale, dotata di wifi, proiettore, tavoli esag
 {{< /spoiler >}}
 
 ### Cucina
-{{< gallery album="spazi/cucina/" resize_options="250x200" >}}
+{{< gallery album="spazi/cucina/" >}}
 
 Decine di migliaia di persone sono state nutrite da questa cucina, in grado di supportare tanto piccoli pasti quanto per centinaia di persone, e un grande forno per le pizze.
 
 ### Bagno
-{{< gallery album="spazi/bagno/" resize_options="250x200" >}}
+{{< gallery album="spazi/bagno/" >}}
 
 Con grande porta per accesso disabili. La chiave si chiede al bar.
 
@@ -65,34 +65,34 @@ Con grande porta per accesso disabili. La chiave si chiede al bar.
 {{< /spoiler >}}
 
 ### Segreteria
-{{< gallery album="spazi/segreteria/" resize_options="250x200" >}}
+{{< gallery album="spazi/segreteria/" >}}
 
 Ad uso quasi esclusivo del Consiglio e delle Associazioni.
 
 ## Primo piano
 
 ### Teatro
-{{< gallery album="spazi/teatro/" resize_options="250x200" >}}
+{{< gallery album="spazi/teatro/" >}}
 
 Lo spazio più grande: per il cinema e gli spettacoli, presentazioni e incontri, corsi Yoga, saggi di musica, corsi di teatro...
 
 ### Stanza Associazioni
-{{< gallery album="spazi/sala-associazioni/" resize_options="250x200" >}}
+{{< gallery album="spazi/sala-associazioni/" >}}
 
 L'Associazione La Fonte ha sede qui, a volte viene usata anche da altre realtà, dalle riunioni allo Shiatzu.
 
 ### Centro Studi e Documentazione
-{{< gallery album="spazi/centro-studi/" resize_options="250x200" >}}
+{{< gallery album="spazi/centro-studi/" >}}
 
 La biblioteca popolare e il Centro Documentazione Carlo Giuliani.
 
 ### Stanze della Musica
-{{< gallery album="spazi/sala-musica/" resize_options="250x200" >}}
+{{< gallery album="spazi/sala-musica/" >}}
 
 Nell'attico ci sono le due stanza della scuola di musica, oltre che per i laboratori sonori.
 
 ### Camera Segreta
-{{< gallery album="spazi/sala-oscura/" resize_options="250x200" >}}
+{{< gallery album="spazi/sala-oscura/" >}}
 
 La stanza più segreta della CdP: la troverete?
 Decenni fa qui c'era una camera oscura per la fotografia...
@@ -100,7 +100,7 @@ Decenni fa qui c'era una camera oscura per la fotografia...
 ## Piano zero
 
 ### Ludoteca
-{{< gallery album="spazi/ludoteca/" resize_options="250x200" >}}
+{{< gallery album="spazi/ludoteca/" >}}
 
 Con affaccio sul piazzale, qui si fanno i centri estivi e le feste di compleanno per bambini, laboratori e spettacolini.
 
@@ -112,7 +112,7 @@ Certo, però solo se sono integri e funzionanti (non siamo una discarica, per in
 {{< /spoiler >}}
 
 ### Sala prove e Studio di Registrazione
-{{< gallery album="spazi/sala-prove/" resize_options="250x200" >}}
+{{< gallery album="spazi/sala-prove/" >}}
 
 Dagli anni '80 la CdP di Settignano è un centro di aggregazione musicale di tutto rispetto.
 
@@ -123,7 +123,7 @@ Dagli anni '80 la CdP di Settignano è un centro di aggregazione musicale di tut
 {{< /spoiler >}}
 
 ### Biblioteca
-{{< gallery album="spazi/biblioteca/" resize_options="250x200" >}}
+{{< gallery album="spazi/biblioteca/" >}}
 
 Libri di tutti i tipi in questa fresca stanza con affaccio sul piazzale.
 
@@ -133,12 +133,12 @@ Per ora i libri sono solo per consultazione in loco.
 {{< /spoiler >}}
  
 ### Magazzino
-{{< gallery album="spazi/magazzino/" resize_options="250x200" >}}
+{{< gallery album="spazi/magazzino/" >}}
 
 Qui ci teniamo gli archivi di molte cose. 
 
 ### Laboratorio
-{{< gallery album="spazi/laboratorio/" resize_options="250x200" >}}
+{{< gallery album="spazi/laboratorio/" >}}
 
 Il covo della manutenzione e dell'aggiustamento.
 Qui temiamo tutti gli attrezzi: falegnameria, elettricità, imbiancature, idraulica...
@@ -152,22 +152,22 @@ Qui temiamo tutti gli attrezzi: falegnameria, elettricità, imbiancature, idraul
 ## Esterni
 
 ### Piazzale / Pista
-{{< gallery album="spazi/piazzale/" resize_options="250x200" >}}
+{{< gallery album="spazi/piazzale/" >}}
 
 Con grande palco coperto e attrezzato, il piazzale si presta tanto a cene da centinaia di persone a spettacoli musicali/teatrali, partite a calcetto o badminton.
 
 ### Giardino
-{{< gallery album="spazi/giardino/" resize_options="250x200" >}}
+{{< gallery album="spazi/giardino/" >}}
 
 A cura di volontari giardinieri, il giardino si affaccia su Firenze.
 
 ### Bar giardino
-{{< gallery album="spazi/giardino-bar/" resize_options="250x200" >}}
+{{< gallery album="spazi/giardino-bar/" >}}
 
 Usato d'estate per eventi speciali. Sarebbe un po' da rinnovare.
 
 ### Tettoia Ping Pong
-{{< gallery album="spazi/tettoia/" resize_options="250x200" >}}
+{{< gallery album="spazi/tettoia/" >}}
 
 L'angolo ludico esterno al coperto.
 
@@ -180,7 +180,7 @@ se non romperete niente vi saranno restituiti dopo aver giocato.
 
 ### Ecotappa
 
-{{< gallery album="spazi/ecotappa/" resize_options="250x200" >}}
+{{< gallery album="spazi/ecotappa/" >}}
 
 L’Ecotappa è un punto di raccolta dove i cittadini possono portare i propri rifiuti di provenienza domestica che non possono essere conferiti nei contenitori presenti su strada e precisamente: olio vegetale usato, bombolette spray, toner e cartucce esauste per fax e stampanti, pile esauste, farmaci scaduti, piccoli elettrodomestici fuori uso (RAEE). 
  
