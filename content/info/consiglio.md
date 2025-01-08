@@ -17,23 +17,22 @@ Il Consiglio Direttivo è eletto dall’Assemblea dei soci, ed è composto da un
 ## 2021-2024
 Elezione: 24 Ottobre 2021
 
-- Alex Corti
-- Ginevra De Marco
-- Giovanna Conti (da settembre 2022)
-- Giuseppe "Beppe" Sarti
-- Guido Chiuderi
-- Ivan Gottlieb
-- Lorenzo Ugolini
-- Mariagrazia Peroni (**tesoreria**)
-- Marzia Archinucci
-- Rosalba Gioffré (**presidenza**)
-- Serena Draghi Lorenz
-- Sergio Chiuderi
-- Stefano Cecere (**vice-presidenza**)
-- Virginia Ferraro (**segreteria**)
-  
+- **Alex Corti**
 - Barbara Giovino (fino a giugno 2022)
-- Martina Rusconi  (fino a dicembre 2022)
+- **Ginevra De Marco**
+- **Giovanna Conti** (da settembre 2022)
+- Giuseppe "Beppe" Sarti (fino a maggio 2023)
+- **Guido Chiuderi**
+- Ivan Gottlieb (fino a dicembre 2024)
+- **Lorenzo Ugolini**
+- **Mariagrazia Peroni** (**tesoreria**)
+- **Marzia Archinucci**
+- Martina Rusconi (fino a dicembre 2022)
+- **Rosalba Gioffré** (**presidenza**)
+- **Serena Draghi Lorenz**
+- **Sergio Chiuderi**
+- **Stefano Cecere** (**vice-presidenza**)
+- **Virginia Ferraro** (**segreteria**)
 
 ## 2019-2021
 
@@ -54,14 +53,14 @@ Elezione: 24 Ottobre 2021
 
 ## 2017-2019
 - Cristian Caglieri
+- Doretta Cocchi (**presidenza**)
 - Francesca Nannelli
-- Giuseppe "Beppe" Sarti
+- Giuseppe "Beppe" Sarti (**vice-presidenza**)
 - Ivan Gottlieb
 - Lorenzo Ugolini
 - Luca Pettinicchio
-- Mariagrazia Peroni
+- Mariagrazia Peroni (**tesoreria**)
 - Massimo Liverani
 - Mauro Antonelli
-- Moreno Pandolfi
-- Rosalba Gioffré
-
+- Moreno Pandolfi (**segreteria**)
+- Rosalba Gioffré (**vice-presidenza** dal 2018)
