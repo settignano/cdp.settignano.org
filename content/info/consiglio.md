@@ -17,50 +17,68 @@ Il Consiglio Direttivo è eletto dall’Assemblea dei soci, ed è composto da un
 ## 2021-2024
 Elezione: 24 Ottobre 2021
 
-- **Alex Corti**
-- Barbara Giovino (fino a giugno 2022)
-- **Ginevra De Marco**
-- **Giovanna Conti** (da settembre 2022)
-- Giuseppe "Beppe" Sarti (fino a maggio 2023)
-- **Guido Chiuderi**
-- Ivan Gottlieb (fino a dicembre 2024)
-- **Lorenzo Ugolini**
-- **Mariagrazia Peroni** (**tesoreria**)
-- **Marzia Archinucci**
-- Martina Rusconi (fino a dicembre 2022)
-- **Rosalba Gioffré** (**presidenza**)
-- **Serena Draghi Lorenz**
-- **Sergio Chiuderi**
-- **Stefano Cecere** (**vice-presidenza**)
-- **Virginia Ferraro** (**segreteria**)
+- **Archinucci Marzia**
+- **Cecere Stefano** (**vice-presidenza**)
+- **Chiuderi Guido**
+- **Chiuderi Sergio**
+- **Conti Giovanna** (da settembre 2022)
+- **Corti Alex**
+- **De Marco Ginevra**
+- **Draghi Lorenz Serena**
+- **Ferraro Virginia** (**segreteria**)
+- **Gioffré Rosalba** (**presidenza**)
+- Giovino Barbara  (fino a giugno 2022)
+- Gottlieb Ivan (fino a dicembre 2024)
+- **Peroni Mariagrazia** (**tesoreria**)
+- Rusconi Martina (fino a dicembre 2022)
+- Sarti "Beppe" Giuseppe (fino a maggio 2023)
+- **Ugolini Lorenzo**
 
 ## 2019-2021
 
-- Alessio Simonini
-- Camilla Conti
-- Christian Caglieri
-- Gabriele Conti
-- Giuseppe "Beppe" Sarti
+- Caglieri Christian
+- Chiuderi Sergio
+- Conti Camilla
+- Conti Gabriele
+- Gioffré Rosalba (**vice-presidenza**)
 - Ivan Gottlieb (**presidenza**)
-- Lorenzo Ugolini
-- Luca Pettinicchio
-- Mariagrazia Peroni (**tesoreria**)
-- Massimo Liverani (**segreteria**)
-- Moreno Pandolfi
-- Nicola Vannini
-- Rosalba Gioffré (**vice-presidenza**)
-- Sergio Chiuderi
+- Liverani Massimo (**segreteria**)
+- Pandolfi Moreno
+- Peroni Mariagrazia (**tesoreria**)
+- Pettinicchio Luca
+- Sarti "Beppe" Giuseppe
+- Simonini Alessio
+- Ugolini Lorenzo
+- Vannini Nicola
 
 ## 2017-2019
-- Cristian Caglieri
-- Doretta Cocchi (**presidenza**)
-- Francesca Nannelli
-- Giuseppe "Beppe" Sarti (**vice-presidenza**)
-- Ivan Gottlieb
-- Lorenzo Ugolini
-- Luca Pettinicchio
-- Mariagrazia Peroni (**tesoreria**)
-- Massimo Liverani
-- Mauro Antonelli
-- Moreno Pandolfi (**segreteria**)
-- Rosalba Gioffré (**vice-presidenza** dal 2018)
+
+- Antonelli Mauro
+- Caglieri Cristian
+- Cocchi Doretta (**presidenza**)
+- Gioffré Rosalba (**vice-presidenza** dal 2018)
+- Gottlieb Ivan
+- Liverani Massimo
+- Nannelli Francesca
+- Pandolfi Moreno (**segreteria**)
+- Peroni Mariagrazia (**tesoreria**)
+- Pettinicchio Luca
+- Sarti "Beppe" Giuseppe (**vice-presidenza**)
+- Ugolini Lorenzo
+
+## 2015-2016
+
+## 2013-2014
+
+- Antonelli Mauro
+- Baldassin Gustav
+- Chiuderi Sergio
+- Cocchi Doretta
+- Gioffré Rosalba
+- Innocenti Simone
+- Pandolfi Moreno
+- Peroni Mariagrazia
+- Rafanelli Paolo
+- Sarti "Beppe" Giuseppe
+- Ugolini Lorenzo
+- Vannini Nicola
