@@ -14,6 +14,19 @@ Il Consiglio Direttivo è eletto dall’Assemblea dei soci, ed è composto da un
 
 ![](foto/consiglio2022.webp)
 
+## 2025-2028
+Elezione: 9 Febbraio 2025
+
+- **Archinucci Marzia**
+- **Cecere Stefano** (**vice-presidenza**)
+- **Conti Gabriele**
+- **De Marco Ginevra**
+- **Gioffré Rosalba** (**presidenza**)
+- **Pagni Francesca**
+- **Peroni Mariagrazia** (**tesoreria**)
+- **Pinzauti Riccardo** (**segreteria**)
+- **Ugolini Lorenzo**
+
 ## 2021-2024
 Elezione: 24 Ottobre 2021
 
