@@ -42,7 +42,11 @@ content:
     - icon: newspaper
       icon_pack: fas
       name: Newsletter
-      link: https://cdp.settignano.org/newsletter/
+      link: https://cdpsettignano.substack.com/
+    - icon: whatsapp
+      icon_pack: fab
+      name: WhatsApp
+      link: https://chat.whatsapp.com/D8mcgSsbxcT9Nl5K4P0y1m
     - icon: facebook
       icon_pack: fab
       name: Facebook

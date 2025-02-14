@@ -17,35 +17,35 @@ Il Consiglio Direttivo è eletto dall’Assemblea dei soci, ed è composto da un
 ## 2025-2028
 Elezione: 9 Febbraio 2025
 
-- **Archinucci Marzia**
-- **Cecere Stefano** (**vice-presidenza**)
-- **Conti Gabriele**
-- **De Marco Ginevra**
-- **Gioffré Rosalba** (**presidenza**)
-- **Pagni Francesca**
-- **Peroni Mariagrazia** (**tesoreria**)
-- **Pinzauti Riccardo** (**segreteria**)
-- **Ugolini Lorenzo**
+- Archinucci Marzi
+- Cecere Stefan (**vice-presidenza**)
+- Conti Gabriel
+- De Marco Ginevr
+- Gioffré Rosalb (**presidenza**)
+- Pagni Francesc
+- Peroni Mariagrazia (**tesoreria**)
+- Pinzauti Riccard (**segreteria**)
+- Ugolini Lorenzo
 
 ## 2021-2024
 Elezione: 24 Ottobre 2021
 
-- **Archinucci Marzia**
-- **Cecere Stefano** (**vice-presidenza**)
-- **Chiuderi Guido**
-- **Chiuderi Sergio**
-- **Conti Giovanna** (da settembre 2022)
-- **Corti Alex**
-- **De Marco Ginevra**
-- **Draghi Lorenz Serena**
-- **Ferraro Virginia** (**segreteria**)
-- **Gioffré Rosalba** (**presidenza**)
-- Giovino Barbara  (fino a giugno 2022)
-- Gottlieb Ivan (fino a dicembre 2024)
-- **Peroni Mariagrazia** (**tesoreria**)
-- Rusconi Martina (fino a dicembre 2022)
-- Sarti "Beppe" Giuseppe (fino a maggio 2023)
-- **Ugolini Lorenzo**
+- Archinucci Marzia
+- Cecere Stefano (**vice-presidenza**)
+- Chiuderi Guido
+- Chiuderi Sergio
+- Conti Giovanna (da settembre 2022)
+- Corti Alex
+- De Marco Ginevra
+- Draghi Lorenz Serena
+- Ferraro Virginia (**segreteria**)
+- Gioffré Rosalba (**presidenza**)
+- ~~Giovino Barbara~~  (fino a giugno 2022)
+- ~~Gottlieb Ivan~~ (fino a dicembre 2024)
+- Peroni Mariagrazia (**tesoreria**)
+- ~~Rusconi Martina~~ (fino a dicembre 2022)
+- ~~Sarti "Beppe" Giuseppe~~ (fino a maggio 2023)
+- Ugolini Lorenzo
 
 ## 2019-2021
 
